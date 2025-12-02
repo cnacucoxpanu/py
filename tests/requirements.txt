@@ -16,11 +16,11 @@ python-telegram-bot>=20.0
 flask>=3.0.0
 flask-sqlalchemy>=3.1.0
 
-click>=8.1.0          # Для красивых CLI
-rich>=13.0.0          # Для красивого вывода в консоли
+click>=8.1.0         
+rich>=13.0.0         
 python-dateutil>=2.8.0
 pytz>=2023.0
-tabulate>=0.9.0       # Для табличного вывода
+tabulate>=0.9.0      
 
 pytest>=7.4.0
 pytest-cov>=4.1.0
