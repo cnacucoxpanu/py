@@ -1,0 +1,4 @@
+__pyache__/
+*.db
+venv/
+.env/
